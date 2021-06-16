@@ -3,7 +3,7 @@ defmodule Functions do
 
   defqueryfunc cbrt(dp)
 
-  defqueryfunc sqrt / 1
+  defqueryfunc sqrt(arg)
 
   defqueryfunc regr_syy(y, x \\ 0)
 
